@@ -1,0 +1,15 @@
+C:\Users\Forever Here\Desktop\dcit318-assignment1-22018501\TicketPriceCalculator\bin\Debug\net10.0\TicketPriceCalculator.exe
+C:\Users\Forever Here\Desktop\dcit318-assignment1-22018501\TicketPriceCalculator\bin\Debug\net10.0\TicketPriceCalculator.deps.json
+C:\Users\Forever Here\Desktop\dcit318-assignment1-22018501\TicketPriceCalculator\bin\Debug\net10.0\TicketPriceCalculator.runtimeconfig.json
+C:\Users\Forever Here\Desktop\dcit318-assignment1-22018501\TicketPriceCalculator\bin\Debug\net10.0\TicketPriceCalculator.dll
+C:\Users\Forever Here\Desktop\dcit318-assignment1-22018501\TicketPriceCalculator\bin\Debug\net10.0\TicketPriceCalculator.pdb
+C:\Users\Forever Here\Desktop\dcit318-assignment1-22018501\TicketPriceCalculator\obj\Debug\net10.0\TicketPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Forever Here\Desktop\dcit318-assignment1-22018501\TicketPriceCalculator\obj\Debug\net10.0\TicketPriceCalculator.AssemblyInfoInputs.cache
+C:\Users\Forever Here\Desktop\dcit318-assignment1-22018501\TicketPriceCalculator\obj\Debug\net10.0\TicketPriceCalculator.AssemblyInfo.cs
+C:\Users\Forever Here\Desktop\dcit318-assignment1-22018501\TicketPriceCalculator\obj\Debug\net10.0\TicketPriceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Forever Here\Desktop\dcit318-assignment1-22018501\TicketPriceCalculator\obj\Debug\net10.0\TicketPriceCalculator.sourcelink.json
+C:\Users\Forever Here\Desktop\dcit318-assignment1-22018501\TicketPriceCalculator\obj\Debug\net10.0\TicketPriceCalculator.dll
+C:\Users\Forever Here\Desktop\dcit318-assignment1-22018501\TicketPriceCalculator\obj\Debug\net10.0\refint\TicketPriceCalculator.dll
+C:\Users\Forever Here\Desktop\dcit318-assignment1-22018501\TicketPriceCalculator\obj\Debug\net10.0\TicketPriceCalculator.pdb
+C:\Users\Forever Here\Desktop\dcit318-assignment1-22018501\TicketPriceCalculator\obj\Debug\net10.0\TicketPriceCalculator.genruntimeconfig.cache
+C:\Users\Forever Here\Desktop\dcit318-assignment1-22018501\TicketPriceCalculator\obj\Debug\net10.0\ref\TicketPriceCalculator.dll
